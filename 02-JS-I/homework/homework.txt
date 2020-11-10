@@ -1,0 +1,9 @@
+Variables: Es un conjunto de carateres al que se le puede asignar un valor. Por ejemplo: nombre = 'Cristian'
+Strings: Es un valor que se guarda en una variable en formato de texto. Van acompañados del simbolo ' en cada extremo.
+Funciones: Es un conjunto de caracteres al que se le puede asignar una instruccion que devuelva un resultado.
+Declaraciones if: El if es una instruccion que se usa para comparar valores por medio de los símbolos mayor, menor o igual, y luego 
+definir otra instrucción en base al resultado de esa comparación.
+Valores booleanos (true, false): Son los valores verdadero o falso que se obtienen al comparar otros valores. 
+Por ejemplo: 3>2 es true. 7<4 es false.
+
+
