@@ -1,0 +1,3 @@
+Array: El array se usa para guardar una lista de valores dentro de una variable. Esta variable se acompaña con los símbolos [].
+	Por ejemplo: Si se quiere acceder al valor 3 de un array que contiene 4 valores, se escribe nombrevariable [2] ya que 
+	el número la posición parte del 0.
