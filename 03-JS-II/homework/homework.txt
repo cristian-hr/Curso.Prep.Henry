@@ -1,0 +1,5 @@
+For: Es un comando del tipo bucle el cual hace una operacion desde un inicio hasta un final por medio de un incremento establecido.
+&&, ||, !: Son operadores lógicos que significan AND, OR y NOT
+Si se juntan dos valores con un AND solo va a ser True cuando los dos son True
+Si se juntan dos valores con un OR van a ser todos True menos cuando los dos son False
+Si se antepone un ! antes de un valor, éste va a cambiar su veracidad a la contraria
