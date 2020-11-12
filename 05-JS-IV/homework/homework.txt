@@ -1,0 +1,20 @@
+Objeto: El objeto es un conjunto de valores que tienen asignado un identificador o una clave especifica. 
+	Cada calve con su valor se escribe de la forma: clave: valor. Y cada conjunto de clave y valor va
+	separado por una coma. 
+	En el valor puede ir cualquier tipo de dato de javascript.
+
+Propiedades: Se refiere al conjunto clave:valor que asignamos en un objeto.
+	     Si se quiere acceder al valor de una clave en un objeto se puede obtener asi: objeto.clave == valor.
+
+Métodos: Se refiere a las funciones que se guardan dentro de un objeto.
+	 Ejemplo: var objeto = { metodo: function(){return 'hola';} }.
+
+Bucle for...in: El comando for...in es la versión del comando for que se usa con los objetos, dado a que el comando for
+		solo funciona con indices numéricos.
+		El for...in reocrrera cada clave del objeto hasta que se hayan iterado todas.
+
+Notación de . vs []: La notación de punto solo va a funcionar cuando se escribe una clave que está dentro de un objeto.
+		     La notación con [] puede incluir strings de las claves de un objeto como tambien variables que tienen
+		     asociadas claves del objeto.
+
+
