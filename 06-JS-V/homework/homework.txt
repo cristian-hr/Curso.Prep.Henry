@@ -1,0 +1,12 @@
+Prototype: Los Prototype se usan para poder asignar una función a un objeto sin tener que crearla dentro 
+           de ese objeto. Esto se hace para evitar repetir funciones dentro de distintos objetos.
+           Por ejemplo si se tienen 1000 objetos distintos, con Prototype solo se tiene que escribir una vez
+           la función en vez de escribiarla 1000 veces en cada objeto.
+
+Constructors: Los Constructors son un tipo de función, que por convención, parten con una máyuscula y sirven 
+              para crear objetos con claves y valores, dentro de una variable ya creada.
+              Si un objeto es creado por un constructor, éste va a partir con el nombre del constructor con el
+              que se creó.
+              Si a una variable se le quiere asignar una función constructor, primero se antepone el keyword new
+              y después el nombre del constructor.
+              También, dentro de la función constructor, para referirse a al objeto se usa el keyword this.
