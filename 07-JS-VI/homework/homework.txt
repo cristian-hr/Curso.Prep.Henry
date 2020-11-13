@@ -1,0 +1,6 @@
+Funciones Callback: Se le llaman funciones callback a las funciones que se usan dentro de otra función. 
+                    Estas funciones se definen previamente y pueden usar los argumentos de la función que 
+                    está llamando a la función callback. 
+                    Como convención se usa el keyword cb para definir el argumento de una función callback.
+
+                
