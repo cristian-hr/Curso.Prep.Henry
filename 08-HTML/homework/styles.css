@@ -1,8 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
 h1 {
     color: darkslategrey;
 }
-img {
-    width: 400px;
+.divClass {
+    text-align: center;    
+    background-color: white;
+    width: 500px;
+}
+.imagen {
+    width: 400px;      
 }
 #thirdDiv {
     height: 600px;
@@ -10,7 +20,7 @@ img {
     background-color: lemonchiffon;
     padding: 50px;
     border: 20px solid teal;
-}
+    }
 #spanId {
     font-size: 18px;
     margin: 50px;
